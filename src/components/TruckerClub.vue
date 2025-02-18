@@ -36,8 +36,8 @@ const events = ref([
 
 const navItems = ref([
   { text: 'Home', href: '/' },
-  { text: 'Mitgliedschaft', href: '/mitgliedschaft' },
-  { text: 'Events', href: '/events' }
+  { text: 'Mitgliedschaft', href: '/' },
+  { text: 'Events', href: '/' }
 ]);
 </script>
 
