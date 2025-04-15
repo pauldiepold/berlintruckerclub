@@ -1,4 +1,4 @@
-# berlintruckerclub
+# berlintruckerclub - 30 Minutes of vibe coding a parody on the real btc
 
 This template should help get you started developing with Vue 3 in Vite.
 
